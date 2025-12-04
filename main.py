@@ -20,8 +20,8 @@ if not cam:
 
 counter = 0
 
-frame_width = int(cam.get(cv2.CAP_PROP_FRAME_WIDTH))
-frame_height = int(cam.get(cv2.CAP_PROP_FRAME_HEIGHT))
+frame_w = int(cam.get(cv2.CAP_PROP_FRAME_WIDTH))
+frame_h = int(cam.get(cv2.CAP_PROP_FRAME_HEIGHT))
 frame_fps = float(cam.get(cv2.CAP_PROP_FPS))
 
 
@@ -51,7 +51,7 @@ while True:
     elif key == ord('v'):
         video_name = f"{video_path}/video_{video_date}.mp4"
         video = cv2.VideoWriter(video_name, type_video, frame_fps,
-                                (frame_width, frame_height))
+                                (frame_w, frame_h))
         video.write(tactics_frame)
     elif key == ord('t'):
         cv2.imshow('Video', tactics_frame)
