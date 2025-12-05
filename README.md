@@ -28,3 +28,4 @@ ___
 
 <img width="256" height="256" alt="octocat-1764904697746 (1)" src="https://github.com/user-attachments/assets/ba9a8ca7-5424-4737-b093-70d0683d6d7f" />
 
+![загрузка](https://github.com/user-attachments/assets/916180dc-4826-4767-af22-ace69888aa02)
