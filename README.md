@@ -30,4 +30,4 @@ ___
 
 
 
-<iframe src="https://gifer.com/embed/Imip" width=480 height=98.122 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+![Imip](https://github.com/user-attachments/assets/b866ccb3-c7bf-4314-be81-fc8baae0a1d1)
