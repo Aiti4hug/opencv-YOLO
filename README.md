@@ -1,5 +1,6 @@
 # Коротко о проекте
 ___
+![Imip](https://github.com/user-attachments/assets/b866ccb3-c7bf-4314-be81-fc8baae0a1d1)
 ___
 
 ### В этом проекте произошло небольшое кровосмешение нескольких моих проектов. Боюсь представить что вы подумаете об этом
@@ -28,6 +29,3 @@ ___
 
 <img width="256" height="256" alt="octocat-1764904697746 (1)" src="https://github.com/user-attachments/assets/ba9a8ca7-5424-4737-b093-70d0683d6d7f" />
 
-
-
-![Imip](https://github.com/user-attachments/assets/b866ccb3-c7bf-4314-be81-fc8baae0a1d1)
