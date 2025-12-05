@@ -27,3 +27,5 @@ ___
 
 
 <img width="256" height="256" alt="octocat-1764904697746 (1)" src="https://github.com/user-attachments/assets/ba9a8ca7-5424-4737-b093-70d0683d6d7f" />
+
+![gg](https://tenor.com/ru/view/teresa-walk-kyubu-kyubu-dice-kyubu-dice-kkd-gif-13051338197726138472)
