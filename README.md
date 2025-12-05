@@ -25,5 +25,3 @@ ___
 
 Я хочу сделать так <kbd>[Delete](https://youtu.be/xvFZjo5PgG0?si=lBqxYwwxw-1sWMWW)</kbd>
 
-
-![Image]([https://github.com/user-attachments/assets/79c46fd8-a28d-43a0-9dbc-481f90442873](https://tenor.com/ru/view/glitter-lucky-pixel-gif-gif-11541502738093995385))
