@@ -25,4 +25,5 @@ ___
 
 Я хочу сделать так <kbd>[Delete](https://youtu.be/xvFZjo5PgG0?si=lBqxYwwxw-1sWMWW)</kbd>
 
-<img width="2000" height="2000" alt="octocat-1764904697746" src="https://github.com/user-attachments/assets/e326c20e-b81e-47d0-aaea-0697b0263bff" />
+
+<img width="256" height="256" alt="octocat-1764904697746 (1)" src="https://github.com/user-attachments/assets/ba9a8ca7-5424-4737-b093-70d0683d6d7f" />
