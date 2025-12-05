@@ -11,7 +11,7 @@ os.makedirs(video_path, exist_ok=True)
 cop = 'MEdIA'
 os.makedirs(cop, exist_ok=True)
 
-cam = cv2.VideoCapture('gg/airplane_video1.mp4')
+cam = cv2.VideoCapture(0)
 
 
 if not cam:
@@ -26,7 +26,7 @@ frame_fps = float(cam.get(cv2.CAP_PROP_FPS))
 
 
 if frame_fps == 0:
-    frame_fps = 30.0
+    frame_fps = 50.0
 video_date = datetime.datetime.now().strftime('%d-%m-%Y_%H-%M-%S')
 type_video = cv2.VideoWriter_fourcc(*'mp4v')
 
