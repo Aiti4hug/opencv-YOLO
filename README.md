@@ -28,4 +28,4 @@ ___
 
 <img width="256" height="256" alt="octocat-1764904697746 (1)" src="https://github.com/user-attachments/assets/ba9a8ca7-5424-4737-b093-70d0683d6d7f" />
 
-<div style="padding-top:20.442%;position:relative;"><iframe src="https://gifer.com/embed/Imip" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<iframe src="https://gifer.com/embed/Imip" width=480 height=98.122 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
